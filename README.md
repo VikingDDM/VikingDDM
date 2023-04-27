@@ -1,12 +1,3 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Senior%20Web%20%20Mobile%20Developer;Passionate%20Developer;Specialized%20in%20JavaScript%20and%20TypeScript;React,%20Vue,%20Next%20for%20the%20Front-End;Node.js,%20Python%20for%20the%20Back-End;Always%20learning%20new%20things.&center=true&width=500&height=50">
-  </a>
-</p>
-
-<br />
-
-<p><img align="right" width="50%" src="javascript.gif" alt="topbrightdev" /></p>
 
 ####      <div align="center">![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/C#-blue) ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Nuxt-blue) ![](https://img.shields.io/badge/BlockChain-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/ChatGPT-blue) ![](https://img.shields.io/badge/Heroku-blue) ![](https://img.shields.io/badge/Netlify-blue) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/CI/CD-blue) ![](https://img.shields.io/badge/Java-blue) ![](https://img.shields.io/badge/JavaScript-blue) ![](https://img.shields.io/badge/TypeScript-blue) ![](https://img.shields.io/badge/MySQL-blue) ![](https://img.shields.io/badge/MongoDB-blue) ![](https://img.shields.io/badge/PostgreSQL-blue)  ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/SCSS-blue) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/Laravel-blue) ![](https://img.shields.io/badge/Bootstrap-blue) ![](https://img.shields.io/badge/TailwindCSS-blue) ![](https://img.shields.io/badge/Material%20UI-blue) ![](https://img.shields.io/badge/Ant%20Design-blue)</div>
 

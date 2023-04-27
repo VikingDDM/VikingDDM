@@ -8,10 +8,6 @@
 
 <p><img align="right" width="50%" src="javascript.gif" alt="topbrightdev" /></p>
 
-<p>As a Full Stack Software Engineer with 8 years of professional background, I have successfully developed and published several web and mobile applications using modern JavaScript Frameworks and Libraries such as React(Primary), Vue, Next, Nuxt for the front end and Node.js/Express.js(Primary), Python/Django, PHP/Laravel, and Java for the back end.</p>
-<p>Skilled in working under pressure and adapting to new situations and challenges to contribute to the company's success.</p>
-<p>Collaborate with creative and development teams on the execution of ideas and projects.</p>
-
 ####      <div align="center">![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/C#-blue) ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Nuxt-blue) ![](https://img.shields.io/badge/BlockChain-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/ChatGPT-blue) ![](https://img.shields.io/badge/Heroku-blue) ![](https://img.shields.io/badge/Netlify-blue) ![](https://img.shields.io/badge/Docker-blue) ![](https://img.shields.io/badge/CI/CD-blue) ![](https://img.shields.io/badge/Java-blue) ![](https://img.shields.io/badge/JavaScript-blue) ![](https://img.shields.io/badge/TypeScript-blue) ![](https://img.shields.io/badge/MySQL-blue) ![](https://img.shields.io/badge/MongoDB-blue) ![](https://img.shields.io/badge/PostgreSQL-blue)  ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/CSS-blue) ![](https://img.shields.io/badge/SCSS-blue) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/Laravel-blue) ![](https://img.shields.io/badge/Bootstrap-blue) ![](https://img.shields.io/badge/TailwindCSS-blue) ![](https://img.shields.io/badge/Material%20UI-blue) ![](https://img.shields.io/badge/Ant%20Design-blue)</div>
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>

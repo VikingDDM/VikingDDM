@@ -78,6 +78,12 @@
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-plain.svg" />
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redis/redis-plain.svg" />
+    </td>
   </tr>
   <tr>
     <td>

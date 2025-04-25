@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="100"/>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original-wordmark.svg" width="100"/>
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="100"/>

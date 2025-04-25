@@ -26,7 +26,7 @@
       <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-plain-wordmark.svg" width="100"/>
     </td>
     <td>
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-plain-wordmark.svg" width="100"/>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-plain-wordmark.svg" width="100"/>
     </td>
     <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" />
@@ -44,7 +44,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100"/>
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="100"/>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swift/swift-plain-wordmark.svg" width="100"/>
     </td>
   </tr>
   <tr>

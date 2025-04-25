@@ -122,6 +122,18 @@
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
     </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" />
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/xcode/xcode-plain.svg" />
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/wordpress/wordpress-plain.svg" />
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/magento/magento-original.svg" />
+    </td>
   </tr>
 </table>
 <br/>

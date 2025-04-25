@@ -5,6 +5,9 @@
 <table>
   <tr>
     <td>
+      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-plain.svg)" width="100"/>
+    </td>
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100"/>
     </td>
     <td>

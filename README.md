@@ -8,13 +8,25 @@
       <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-plain.svg" width="100"/>
     </td>
     <td>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-plain.svg" width="100"/>
+    </td>
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100"/>
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100"/>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" width="100"/>
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-plain-wordmark.svg" width="100"/>
+    </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-plain-wordmark.svg" width="100"/>
     </td>
     <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" />

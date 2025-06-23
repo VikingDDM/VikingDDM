@@ -113,6 +113,9 @@
     <td>
       <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/xcode/xcode-plain.svg" />
     </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/xcode/Three.js-plain.svg" />
+    </td>
   </tr>
 </table>
 <br/>

@@ -114,7 +114,7 @@
       <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/xcode/xcode-plain.svg" />
     </td>
     <td>
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/xcode/Three.js-plain.svg" />
+      <img src="https://github.com/devicons/devicon/blame/v2.16.0/icons/threejs/threejs-original.svg" />
     </td>
   </tr>
 </table>

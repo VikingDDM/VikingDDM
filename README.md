@@ -14,19 +14,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100"/>
     </td>
     <td>
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" width="100"/>
-    </td>
-    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="100"/>
     </td>
     <td>
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain.svg" width="100"/>
-    </td>
-    <td>
       <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-plain-wordmark.svg" width="100"/>
-    </td>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-plain-wordmark.svg" width="100"/>
     </td>
     <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" />
@@ -42,9 +33,6 @@
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100"/>
-    </td>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swift/swift-plain-wordmark.svg" width="100"/>
     </td>
   </tr>
   <tr>
@@ -105,9 +93,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" />
-    </td>
-    <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
     </td>
     <td>
@@ -127,12 +112,6 @@
     </td>
     <td>
       <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/xcode/xcode-plain.svg" />
-    </td>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/wordpress/wordpress-plain.svg" />
-    </td>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/magento/magento-original.svg" />
     </td>
   </tr>
 </table>

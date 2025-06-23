@@ -34,6 +34,9 @@
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100"/>
     </td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-plain.svg" width="100"/>
+    </td>
   </tr>
   <tr>
     <td>
@@ -74,9 +77,6 @@
     </td>
     <td>
       <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/supabase/supabase-original.svg" width="100"/>
-    </td>
-    <td>
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-plain.svg" width="100"/>
     </td>
   </tr>
   <tr>
